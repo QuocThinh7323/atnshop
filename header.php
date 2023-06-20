@@ -35,8 +35,8 @@ body {
 </style>
 <nav class="navbar navbar-expand-md" style="background-color:#555555">
     <div class="container-fluid">
-        <a href="http://localhost:8080/simpleweb/homepage.php" class="navbar-brand">     <!-- Sửa ở đây -->
-            <img src="../simpleweb/image/logoweb.jpeg" alt="" width="70px" height="50px"></a>
+        <a href="http://localhost:8080/simpleweb/index.php" class="navbar-brand">     <!-- Sửa ở đây -->
+            <img src="./image/logoweb.jpeg" alt="" width="70px" height="50px"></a>
 
         <!-- tạo ra nút 3 gạch và khi nhấn vào nút 3 gạch thì 1 đường viền sẽ xuất hiện -->
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain">
