@@ -20,10 +20,10 @@
   </section>
   <!-- Copyright -->
   <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.025);">
-  <img width="100" height="60" src="../simpleweb/image/logoweb.jpeg" 
-        class="attachment-medium size-medium entered lazyloaded" alt data-lazy-src="../simpleweb/image/logoweb.jpeg" data-ll-status="loaded">
+  <img width="100" height="60" src="./image/logoweb.jpeg" 
+        class="attachment-medium size-medium entered lazyloaded" alt data-lazy-src="./image/logoweb.jpeg" data-ll-status="loaded">
     © 2021 Copyright:ATN
-    <a class="text-reset fw-bold" href="http://localhost:8080/simpleweb/Index.php">shopATN.com</a><!-- sửa ở đây-->
+    <a class="text-reset fw-bold" href="http://localhost:8080/index.php">shopATN.com</a><!-- sửa ở đây-->
   </div>
 
   <!-- Copyright -->

@@ -52,7 +52,7 @@ body {
         <!-- Tạo Menu -->
         <div class="collapse navbar-collapse" id="navbarMain">
             <div class="navbar-nav fw-bold">
-                <a class="nav-link active" href="Index.php">Home</a>
+                <a class="nav-link active" href="index.php">Home</a>
                 <div class="dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Manage</a>
                     <div class="dropdown-menu">
