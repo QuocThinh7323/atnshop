@@ -15,7 +15,7 @@ if(isset($_POST['btnLogout'])){
             echo "Logout succsessfully";
             setcookie("cc_username",$row['fullname'],time()+60);
             setcookie("cc_id",$row['id'],time()-60);
-            header("Location: Index.php");
+            header("Location: index.php");
 
         }
         else{

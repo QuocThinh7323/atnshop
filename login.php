@@ -16,7 +16,7 @@ if(isset($_POST['btnLogin'])){
             echo "Login succsessfully";
             setcookie("cc_username",$row['fullname'],time()+60);
             setcookie("cc_id",$row['id'],time()+60);
-            header("Location: Index.php");  // <!-- sửa ở đây-->
+            header("Location: index.php");  // <!-- sửa ở đây-->
             
         }else{
             // echo "Something wrong with your info<br>";
